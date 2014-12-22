@@ -1,0 +1,22 @@
+{
+  "name": "internet-archive",
+  "version": "1.0.0",
+  "description": "streaming interface to the archive.org APIs",
+  "main": "index.js",
+  "bin": {
+    "archive-stream": "cli.js"
+  },
+  "author": "max ogden",
+  "license": "BSD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/internet-archive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/internet-archive/issues"
+  },
+  "homepage": "https://github.com/maxogden/internet-archive"
+}
